@@ -1,0 +1,689 @@
+2023-07-05 18:51:09 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:17:45 info: This User id: (64a5c1d9e0699147b80670b8) Created Successfully.
+2023-07-05 21:17:58 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:18:45 error: In-valid User ID.
+2023-07-05 21:20:24 error: In-valid User ID.
+2023-07-05 21:20:32 info: This User id: (64a5c280b9b25c180602d0a0) Created Successfully.
+2023-07-05 21:20:40 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:23:06 info: This User id: (64a5c31af4d5006649b07876) Created Successfully.
+2023-07-05 21:23:12 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:25:01 info: This User id: (64a5c38d5a8a410e6e6b6a3c) Created Successfully.
+2023-07-05 21:25:03 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:27:19 info: This User id: (64a5c41720e57b178bf3f575) Created Successfully.
+2023-07-05 21:27:22 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:28:32 info: This User id: (64a5c460eb7849f35cfb2739) Created Successfully.
+2023-07-05 21:28:35 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:35:03 info: This User id: (64a5c5e72361d351caa26356) Created Successfully.
+2023-07-05 21:35:05 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-05 21:35:14 info: This User id: (64a5c5e72361d351caa26356) Confirmed Email Successfully.
+2023-07-06 04:57:45 info: This User id: (64a62da92fda6d2ce277b1f1) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-06 04:57:56 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-06 04:59:05 info: This User id: (64a62da92fda6d2ce277b1f1) Confirmed Email Successfully.
+2023-07-06 05:50:45 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(get) - This User id: (64a62da92fda6d2ce277b1f1) Resend Confirmed Email Successfully.
+2023-07-06 05:50:47 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-06 05:56:34 error: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - Your Token is Expired
+2023-07-06 05:57:59 error: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - JsonWebTokenError: jwt malformed
+2023-07-06 06:09:14 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64a62da92fda6d2ce277b1f1) Confirmed Email Successfully.
+2023-07-06 06:09:28 error: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - JsonWebTokenError: jwt malformed
+2023-07-06 06:09:39 error: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - You already confirmed Please proceed to login Page.
+2023-07-06 06:12:28 error: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - You already confirmed Please proceed to login Page.
+2023-07-06 06:13:52 error: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64a62da92fda6d2ce277b1f1) You already confirmed Please proceed to login Page.
+2023-07-06 14:47:10 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64a6a9be5612519357f1657a) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-06 14:49:10 error: This User id: (64a6a9be5612519357f1657a) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-06 14:50:46 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64a6aa9610c4c579bce0282c) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-06 14:50:49 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-06 14:51:37 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64a6aa9610c4c579bce0282c) Confirmed Email Successfully.
+2023-07-06 14:54:04 error: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64a6aa9610c4c579bce0282c) You already confirmed Please proceed to login Page.
+2023-07-06 14:54:30 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64a6aa9610c4c579bce0282c) Resend Confirmed Email Successfully.
+2023-07-06 14:54:32 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-06 14:56:09 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64a6aa9610c4c579bce0282c) Confirmed Email Successfully.
+2023-07-06 15:02:51 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Please confrim your Email first.
+2023-07-06 15:06:40 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Please confrim your Email first.
+2023-07-06 15:06:55 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: Illegal arguments: string, undefined. 
+2023-07-06 15:09:13 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: Illegal arguments: string, undefined. 
+2023-07-06 15:10:18 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: Illegal arguments: string, undefined. 
+2023-07-06 15:19:12 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - User Login Successfully.
+2023-07-06 15:23:00 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - You are Already Login.
+2023-07-06 15:23:11 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - User Login Successfully.
+2023-07-06 15:24:38 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - User Login Successfully.
+2023-07-06 15:28:56 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-vaild Email OR Password.
+2023-07-06 15:29:33 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64a6b3ad40aa43c2bf84e818) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-06 15:29:36 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-06 15:29:54 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64a6b3ad40aa43c2bf84e818) Confirmed Email Successfully.
+2023-07-06 15:30:47 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - User Login Successfully.
+2023-07-06 15:32:12 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - You are Already Login.
+2023-07-06 15:42:46 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64a6b3ad40aa43c2bf84e818) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-07 10:20:09 info: @Method:(patch) @Endpoint:(/logout) @FunName:(<anonymous>) - This User id: (64a6b3ad40aa43c2bf84e818) email: (ahmedgomaa8998@gmail.com) Logout Successfully.
+2023-07-07 10:24:36 info: @Method:(patch) @Endpoint:(/logout) @FunName:(<anonymous>) - This User id: (64a6b3ad40aa43c2bf84e818) email: (ahmedgomaa8998@gmail.com) Logout Successfully.
+2023-07-09 11:38:57 info: @Method:(post) @Endpoint:(/requestPasswordReset) @FunName:(requestResetPassword) - This User id: (undefined) email: (ahmedgomaa8998@gmail.com) Want To Reset Password.
+2023-07-09 11:40:58 error: This User id: (undefined) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:05:06 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-09 12:07:06 error: This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:08:29 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:10:56 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:11:51 error: This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:15:23 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:17:23 error: This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:22:00 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:22:10 error: This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:28:56 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:28:56 error: This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-07-09 12:29:42 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunName:(resendConfrimEmail) - This User id: (64aa7842a97ef82671d2267d) Resend Confirmed Email Successfully.
+2023-07-09 12:29:44 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-09 12:36:02 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64aa7842a97ef82671d2267d) Confirmed Email Successfully.
+2023-07-09 12:36:56 info: @Method:(post) @Endpoint:(/requestPasswordReset) @FunName:(requestResetPassword) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) Want To Reset Password.
+2023-07-09 12:36:58 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-09 13:25:13 error: @Method:(post) @Endpoint:(/passwordReset) @FunName:(resetPasswordController) - This User id: (64aa7842a97ef82671d2267d) Invalid or expired password reset token.
+2023-07-09 13:28:03 error: @Method:(post) @Endpoint:(/passwordReset) @FunName:(resetPasswordController) - This User id: (64aa7842a97ef82671d2267d) Invalid or expired password reset token.
+2023-07-09 13:31:09 info: @Method:(post) @Endpoint:(/passwordReset) @FunName:(resetPasswordController) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) Reset Password Successfully.
+2023-07-09 13:31:12 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-09 13:31:37 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:32:09 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - You are Already Login.
+2023-07-09 13:34:57 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:37:26 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:38:23 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:38:59 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:42:32 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 13:44:01 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-09 13:44:49 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64aa7842a97ef82671d2267d) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-09 16:13:33 error: error: Error: getaddrinfo EAI_AGAIN www.googleapis.com 
+error stack: InternalOAuthError: Failed to obtain access token
+    at Strategy.OAuth2Strategy._createOAuthError (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/passport-oauth2/lib/strategy.js:423:17)
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/passport-oauth2/lib/strategy.js:177:45
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/oauth/lib/oauth2.js:191:18
+    at ClientRequest.<anonymous> (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/oauth/lib/oauth2.js:162:5)
+    at ClientRequest.emit (node:events:513:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at TLSSocket.socketErrorListener (node:_http_client:502:9)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-07-09 16:17:07 error: error: Error: read ECONNRESET 
+error stack: InternalOAuthError: Failed to obtain access token
+    at Strategy.OAuth2Strategy._createOAuthError (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/passport-oauth2/lib/strategy.js:423:17)
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/passport-oauth2/lib/strategy.js:177:45
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/oauth/lib/oauth2.js:191:18
+    at ClientRequest.<anonymous> (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/oauth/lib/oauth2.js:162:5)
+    at ClientRequest.emit (node:events:513:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at TLSSocket.socketErrorListener (node:_http_client:502:9)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+2023-07-09 16:17:42 error: error: Error: read ECONNRESET 
+error stack: InternalOAuthError: Failed to fetch user profile
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/passport-google-oauth20/lib/strategy.js:99:19
+    at ClientRequest.<anonymous> (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/oauth/lib/oauth2.js:162:5)
+    at ClientRequest.emit (node:events:513:28)
+    at ClientRequest.emit (node:domain:489:12)
+    at TLSSocket.socketErrorListener (node:_http_client:502:9)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-07-10 16:14:05 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64ac041dabfce2ff0b9d58f4) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-10 16:14:11 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-10 16:16:22 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64ac041dabfce2ff0b9d58f4) Confirmed Email Successfully.
+2023-07-10 16:16:47 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Please confrim your Email first.
+2023-07-10 16:52:38 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-10 16:53:37 info: @Method:(post) @Endpoint:(/register) @FunName:(Register) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-07-10 16:53:40 info: This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-10 16:53:43 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Please confrim your Email first.
+2023-07-10 16:54:26 error: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - TypeError: Cannot read properties of undefined (reading '_id')
+2023-07-10 16:54:38 info: @Method:(get) @Endpoint:(/confrimEmail/:token) @FunName:(confrimEmail) - This User id: (64ac0d61a91496fc5eeaf467) Confirmed Email Successfully.
+2023-07-10 16:54:46 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-10 16:58:46 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-10 17:00:38 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-10 17:01:45 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-10 18:49:41 info: @Method:(patch) @Endpoint:(/logout) @FunName:(<anonymous>) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) Logout Successfully.
+2023-07-10 18:50:10 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-10 18:50:49 info: @Method:(patch) @Endpoint:(/logout) @FunName:(<anonymous>) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) Logout Successfully.
+2023-07-11 11:02:02 error: error: ValidationError: firstName: Path `firstName` is required., lastName: Path `lastName` is required. 
+error stack: ValidationError: user validation failed: firstName: Path `firstName` is required., lastName: Path `lastName` is required.
+    at model.Document.invalidate (/home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/mongoose/lib/document.js:3147:32)
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/mongoose/lib/document.js:2940:17
+    at /home/ahmed/Fixed/Projects/AuthService/Auth-LogingModule/node_modules/mongoose/lib/schematype.js:1352:9
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+2023-07-11 14:12:43 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-11 18:31:45 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:31:48 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:31:50 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:31:58 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:31:59 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:31:59 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:32:33 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: user validation failed: unlockLoginTime: Cast to date failed for value "16890895539491 * 60 * 60 * 1000" (type string) at path "unlockLoginTime". 
+2023-07-11 18:34:37 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:34:39 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:34:40 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:34:41 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:34:42 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:34:43 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:37:31 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Too many failed login attempts. Please try again after 59 minutes.
+2023-07-11 18:38:26 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:38:27 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:38:28 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Too many failed login attempts. Please try again after 59 minutes.
+2023-07-11 18:41:15 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:41:16 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:41:17 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - Too many failed login attempts. Please try again after 0 minutes.
+2023-07-11 18:41:30 error: @Method:(post) @Endpoint:(/login) @FunName:(Login) - In-valid Email Or Password.
+2023-07-11 18:42:20 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-12 11:48:07 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-12 11:59:29 info: @Method:(post) @Endpoint:(/login) @FunName:(Login) - This User id: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-12 14:28:05 info: @Method:(get) @Endpoint:(/users) @FunName:(findAllUsers) @userId(64ac0d61a91496fc5eeaf467) - fetch all users Successfully.
+2023-07-12 14:40:22 error: @Method:(get) @Endpoint:(/user/:id) @FunName:(findUser) @userId(64ac0d61a91496fc5eeaf467) - Cast to ObjectId failed for value "64ac2c9e9d3876a6df22a145d" (type string) at path "_id" for model "user"
+2023-07-12 14:40:44 info: @Method:(get) @Endpoint:(/user/:id) @FunName:(findUser) @userId(64ac0d61a91496fc5eeaf467) - fetch user Successfully.
+2023-07-12 14:42:04 info: @Method:(get) @Endpoint:(/user/:id) @FunName:(findUser) @userId(64ac0d61a91496fc5eeaf467) - fetch user Successfully.
+2023-07-12 14:42:42 info: @Method:(get) @Endpoint:(/users) @FunName:(findAllUsers) @userId(64ac0d61a91496fc5eeaf467) - fetch all users Successfully.
+2023-07-12 14:43:28 error: @Method:(get) @Endpoint:(/user/:id) @FunName:(findUser) @userId(64ac0d61a91496fc5eeaf467) - Oops..This User Not Exist.
+2023-07-12 14:43:36 info: @Method:(get) @Endpoint:(/user/:id) @FunName:(findUser) @userId(64ac0d61a91496fc5eeaf467) - fetch user Successfully.
+2023-07-12 15:11:35 info: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Update user id: (64ac2c9e9d3876a6df22a145) Successfully.
+2023-07-12 15:12:16 info: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Update user id: (64ac2c9e9d3876a6df22a145) Successfully.
+2023-07-12 15:13:20 info: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Update user id: (64ac2c9e9d3876a6df22a145) Successfully.
+2023-07-12 15:17:30 info: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Update user id: (64ac2c9e9d3876a6df22a145) Successfully.
+2023-07-12 15:17:39 error: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Cast to ObjectId failed for value "64ac2c9e9d3876a6df22a14s" (type string) at path "_id" for model "user"
+2023-07-12 15:17:52 error: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Oops..This User Not Exist So Can not Updated.
+2023-07-12 15:18:00 info: @Method:(patch) @Endpoint:(/user/:id) @FunName:(updateUser) @userId(64ac0d61a91496fc5eeaf467) - Update user id: (64ac2c9e9d3876a6df22a145) Successfully.
+2023-07-18 12:18:07 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confrim your Email first.
+2023-07-18 12:18:32 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 12:19:36 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 12:20:06 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 12:29:06 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 12:29:09 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 12:29:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-07-18 12:29:49 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 13:43:07 error: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-18 13:43:21 error: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-18 13:43:29 error: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-18 13:45:50 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 401
+2023-07-18 14:03:42 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 401
+2023-07-18 14:06:01 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 401
+2023-07-18 14:11:27 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 404
+2023-07-18 14:55:21 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 14:59:17 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:00:08 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:04:50 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 401
+2023-07-18 15:11:58 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:16:07 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:17:39 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:18:02 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:18:26 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:18:46 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:19:09 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:19:26 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:20:06 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): error: Error: Request failed with status code 409
+2023-07-18 15:34:39 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): Oops..This email(ahmedgomaa8998@gmail.com) is already existing
+2023-07-18 15:37:56 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): Oops..This email(ahmedgomaa8998@gmail.com) is already existing
+2023-07-18 15:38:20 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): Oops..This email(undefined) is already existing
+2023-07-18 15:40:47 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): This email(ahmed@gmail.com) Tried To Sign up By Keycloak.
+Error(Request failed with status code 500)
+2023-07-18 15:55:29 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): Oops..This email(ahmedgomaa8998@gmail.com) is already existing
+2023-07-18 15:56:07 info: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): This email(ahmedgomaa8998@gmail.com) Sign up Successfully
+2023-07-18 16:00:06 info: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): This email(ahmedgomaa8998@gmail.com) Sign up Successfully
+2023-07-18 16:00:14 error: @Method:(post) @Endpoint:(/signup/keycloak) @FunctionName:(registerByKeycloak): Oops..This email(ahmedgomaa8998@gmail.com) is already existing
+2023-07-18 16:09:26 error: @Method:(post) @Endpoint:(/PasswordReset/keycloak) @FunctionName:(resetPasswordByKeycloak): This email(undefined) Tried To Reset Password.
+Error(Request failed with status code 400)
+2023-07-18 16:09:27 error: @Method:(post) @Endpoint:(/PasswordReset/keycloak) @FunctionName:(resetPasswordByKeycloak): This email(undefined) Tried To Reset Password.
+Error(Request failed with status code 400)
+2023-07-18 16:09:48 error: @Method:(post) @Endpoint:(/PasswordReset/keycloak) @FunctionName:(resetPasswordByKeycloak): Oops..This email(ahmedgomaa8sd998@gmail.com) is not existing
+2023-07-18 16:10:00 info: @Method:(post) @Endpoint:(/PasswordReset/keycloak) @FunctionName:(resetPasswordByKeycloak): This email(ahmedgomaa8998@gmail.com) reset password Successfully
+2023-07-18 16:10:05 error: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-18 16:10:17 info: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): This email(ahmedgomaa8998@gmail.com) login Successfully
+2023-07-18 16:10:28 info: @Method:(post) @Endpoint:(/PasswordReset/keycloak) @FunctionName:(resetPasswordByKeycloak): This email(ahmedgomaa8998@gmail.com) reset password Successfully
+2023-07-18 16:10:32 error: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-18 16:10:39 info: @Method:(post) @Endpoint:(/login/keycloak) @FunctionName:(loginByKeycloak): This email(ahmedgomaa8998@gmail.com) login Successfully
+2023-07-18 16:15:14 info: @Method:(post) @Endpoint:(/login) @FunctionName:(loginByKeycloak): This email(ahmedgomaa8998@gmail.com) login Successfully
+2023-07-18 16:16:07 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-18 16:16:29 info: @Method:(post) @Endpoint:(/login) @FunctionName:(loginByKeycloak): This email(ahmedgomaa8998@gmail.com) login Successfully
+2023-07-26 17:19:55 error: @Method:(get) @Endpoint:(/keycloak) @FunctionName:(loginByKeycloak): error: Error: In-vaild Email OR Password.
+2023-07-30 12:05:49 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (6a491695-6f2d-4b03-aaca-964cfd538aed) is Authenticated by Keycloak
+2023-07-30 12:06:58 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (6a491695-6f2d-4b03-aaca-964cfd538aed) is Authenticated by Keycloak
+2023-07-30 12:06:59 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (6a491695-6f2d-4b03-aaca-964cfd538aed) is Authenticated by Keycloak
+2023-07-30 12:07:43 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (65a0d644-8559-4add-944a-ee9665a4de3c) is Authenticated by Keycloak
+2023-07-30 12:10:45 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (e17dc020-3ee6-46f2-b15b-7af1b481dc9c) is Authenticated by Keycloak
+2023-07-30 12:12:15 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (e17dc020-3ee6-46f2-b15b-7af1b481dc9c) is Authenticated by Keycloak
+2023-07-30 12:13:47 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (65a0d644-8559-4add-944a-ee9665a4de3c) is Authenticated by Keycloak
+2023-07-30 12:15:52 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (99409e65-72e7-4ee4-a296-baedfc7fcccd) is Authenticated by Keycloak
+2023-07-30 12:17:12 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (a4dc6a19-fceb-45e6-800c-72f30da2f21a) is Authenticated by Keycloak
+2023-07-30 12:19:45 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (f55e1374-1a65-45c0-8e98-c10eec7fac2b) is Authenticated by Keycloak
+2023-07-30 12:20:40 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (f55e1374-1a65-45c0-8e98-c10eec7fac2b) is Authenticated by Keycloak
+2023-07-30 13:54:10 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(httpCallbackKeycloakURL): This UserId (8d2692b8-01b7-4cbc-9772-e024e72dd133) is Authenticated by Keycloak
+2023-07-30 16:23:06 info: @Method:(get) @Endpoint:(/resendConfrimEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (64ac0d61a91496fc5eeaf467) Resend Confirmed Email Successfully.
+2023-07-30 16:23:10 info:  This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-30 16:25:35 info: @Method:(get) @Endpoint:(/confirmEmail/:token) @FunctionName:(confirmEmail): This User id: (64ac0d61a91496fc5eeaf467) Confirmed Email Successfully.
+2023-07-30 16:25:51 error: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (64ac0d61a91496fc5eeaf467) You already confirmed Please proceed to login Page.
+2023-07-30 16:28:04 info: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (64ac0d61a91496fc5eeaf467) Resend Confirmed Email Successfully.
+2023-07-30 16:28:06 info:  This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-30 16:28:56 info: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (64ac0d61a91496fc5eeaf467) Resend Confirmed Email Successfully.
+2023-07-30 16:28:58 info:  This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-07-31 12:14:09 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 12:15:37 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 12:15:39 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 14:17:22 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-07-31 14:18:15 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 14:20:09 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 14:20:53 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error invalid token
+2023-07-31 14:21:14 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 14:41:04 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Cannot read properties of undefined (reading 'startsWith')
+2023-07-31 14:43:13 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Cannot read properties of undefined (reading 'startsWith')
+2023-07-31 14:56:09 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 14:58:34 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:02:55 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:03:55 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:04:56 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:05:38 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:06:22 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:08:39 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error Unauthorized Access.
+2023-07-31 15:10:51 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:13:31 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:14:29 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:18:17 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:21:47 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:31:18 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:40:24 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:58:50 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 15:59:46 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:16:49 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:17:06 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:17:33 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:18:17 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:19:04 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:19:29 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:19:31 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:20:27 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:21:01 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:21:13 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:21:35 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:21:55 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:22:10 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:22:13 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:22:15 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:22:18 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:22:20 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:37:57 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:38:23 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:42:17 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:43:01 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 17:43:20 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 18:10:07 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 18:10:53 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 18:11:58 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 18:13:36 error: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): Error Occurred While Authenticating using Keycloak, Error: invalid signature.
+2023-07-31 18:17:09 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): This UserId (ac5acc53-b104-42f0-b222-63e008f3f9be) is Authenticated by Keycloak
+2023-07-31 18:18:16 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): This UserId (6683ea0a-e42a-4569-90fe-e90df947b16e) is Authenticated by Keycloak
+2023-07-31 18:18:28 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): This UserId (6683ea0a-e42a-4569-90fe-e90df947b16e) is Authenticated by Keycloak
+2023-07-31 18:31:43 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-07-31 18:32:43 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 18:43:02 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error jwt malformed
+2023-07-31 18:44:05 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error jwt malformed
+2023-07-31 18:44:10 error: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): Occurred Error jwt malformed
+2023-07-31 18:57:11 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 18:57:30 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:01:07 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:01:13 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:01:36 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: user validation failed: role: `uuu` is not a valid enum value for path `role`..
+2023-07-31 19:01:55 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 19:01:57 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:02:35 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 19:02:37 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:03:07 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:03:17 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:03:23 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:03:42 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:03:53 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:21:35 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:22:39 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:22:42 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:22:45 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:23:15 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:23:20 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:23:22 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 19:23:27 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 20:09:39 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 20:09:41 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 20:11:44 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 20:11:46 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 20:13:43 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-07-31 20:13:45 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 20:22:34 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-07-31 20:23:54 info: @Method:(post) @Endpoint:(/verifyUser) @FunctionName:(verifyUser): User is verified Successfully id:: (64ac0d61a91496fc5eeaf467) Successfully.
+2023-08-02 14:53:40 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 15:35:51 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:02:20 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ac0d61a91496fc5eeaf467) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:10:13 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-08-02 16:10:16 info:  This User email: (ahmedgomaa8998@gmail.com) was been sent Successfully.
+2023-08-02 16:10:38 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-02 16:10:50 info: @Method:(get) @Endpoint:(/confirmEmail/:token) @FunctionName:(confirmEmail): This User id: (64ca55b51a0186f8c2eae35b) Confirmed Email Successfully.
+2023-08-02 16:13:50 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:14:11 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-02 16:14:50 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-02 16:14:52 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 59 minutes.
+2023-08-02 16:15:04 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 59 minutesss.
+2023-08-02 16:15:40 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:17:25 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-02 16:19:09 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): This UserId (f6a7d89e-6e61-415f-a824-aef6e31199f1) is Authenticated by Keycloak
+2023-08-02 16:21:03 info: @Method:(get) @Endpoint:(/keycloak/callback) @FunctionName:(callbackKeycloakURL): This UserId (bda8ca83-2590-400f-879e-82772975b1f0) is Authenticated by Keycloak
+2023-08-02 16:28:16 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:29:29 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:30:19 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:31:58 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:32:57 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-02 16:36:38 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 11:46:29 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:10:36 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:11:22 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:13:04 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:14:10 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:15:42 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 13:16:11 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 14:00:05 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmed@gmail.com) Created Successfully.
+2023-08-03 14:00:19 error:  This User id: (64cb88b5c1fd1ecef7ddadc8) email: (ahmed@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-03 14:00:52 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 14:05:08 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 14:05:49 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 14:07:26 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 14:14:41 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 14:16:17 info: @Method:(get) @Endpoint:(/google/callback) @FunctionName:(callbackGoogleURL): This UserId (64ca55b51a0186f8c2eae35b) is Authenticated by Google
+2023-08-03 15:28:10 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 15:34:31 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 16:06:41 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 16:08:05 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 16:12:14 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 17:37:00 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-03 17:40:43 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64ca55b51a0186f8c2eae35b) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-07 11:40:19 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedreda@gmail.com) Created Successfully.
+2023-08-07 11:40:32 error:  This User id: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 11:41:25 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) LogIn Successfully.
+2023-08-07 11:43:33 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) LogIn Successfully.
+2023-08-07 11:45:25 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) LogIn Successfully.
+2023-08-07 11:46:02 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) LogIn Successfully.
+2023-08-07 11:50:14 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ahmedreda@gmail.com) Error: user validation failed: role: `admin` is not a valid enum value for path `role`..
+2023-08-07 11:50:32 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0bc03f0457283a2b982bb) email: (ahmedreda@gmail.com) LogIn Successfully.
+2023-08-07 12:13:03 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedmedhat@gmail.com) Created Successfully.
+2023-08-07 12:13:14 error:  This User id: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 12:14:17 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 13:01:44 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (mahmoudfady@gmail.com) Created Successfully.
+2023-08-07 13:01:55 error:  This User id: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 13:02:26 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-07 13:03:05 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 13:27:40 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 13:27:49 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 15:31:34 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 15:33:33 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 15:35:38 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 15:38:08 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 16:09:31 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 16:22:20 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedmedhat.reda@gmail.com) Created Successfully.
+2023-08-07 16:22:30 error:  This User id: (64d0fe1929b7d0251cf0bd43) email: (ahmedmedhat.reda@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 16:24:45 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 16:27:39 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 16:27:41 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 16:37:56 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedmedhat.reda@gmail.com) Created Successfully.
+2023-08-07 16:38:06 error:  This User id: (64d101c37c5046cfd6ace8fc) email: (ahmedmedhat.reda@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 16:40:09 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedmedhat.reda@gmail.com) Created Successfully.
+2023-08-07 16:40:11 error:  This User id: (64d10248afc91a448a4baaff) email: (ahmedmedhat.reda@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-07 16:42:05 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (be4oy.hani@gmail.com) Created Successfully.
+2023-08-07 16:42:07 info:  This User email: (be4oy.hani@gmail.com) was been sent Successfully.
+2023-08-07 16:46:10 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (64d10248afc91a448a4baaff) email: (ahmedmedhat.reda@gmail.com) Want To Reset Password.
+2023-08-07 16:46:12 info:  This User email: (ahmedmedhat.reda@gmail.com) was been sent Successfully.
+2023-08-07 17:21:21 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 17:23:38 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 17:47:35 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 17:48:30 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-07 17:59:19 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 18:04:25 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 18:08:41 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0c3af29b7d0251cf0bd2c) email: (ahmedmedhat@gmail.com) LogIn Successfully.
+2023-08-07 18:20:18 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d0cf1729b7d0251cf0bd30) email: (mahmoudfady@gmail.com) LogIn Successfully.
+2023-08-09 11:08:21 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ahmedgomaa8998@gmail.com) Created Successfully.
+2023-08-09 11:08:31 error:  This User id: (64d349755a5625ac316863e0) email: (ahmedgomaa8998@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-09 11:13:15 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d349755a5625ac316863e0) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-09 13:07:26 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ahmedgomaa8998@gmail.com) Error: Unsupported protocol localhost:.
+2023-08-09 13:08:20 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (64d349755a5625ac316863e0) email: (ahmedgomaa8998@gmail.com) LogIn Successfully.
+2023-08-30 15:29:21 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 15:32:23 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 15:42:47 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 15:49:04 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin1@gmail.com) Created Successfully.
+2023-08-30 15:49:52 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin1@gmail.com) Created Successfully.
+2023-08-30 15:50:30 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 15:50:43 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin3@gmail.com) Created Successfully.
+2023-08-30 15:50:57 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin3@gmail.com) Created Successfully.
+2023-08-30 15:51:02 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 15:51:06 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin1@gmail.com) Created Successfully.
+2023-08-30 16:00:11 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin1@gmail.com) Created Successfully.
+2023-08-30 16:08:18 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (AliAdmin2@gmail.com) Created Successfully.
+2023-08-30 16:08:28 error:  This User id: (2) email: (AliAdmin2@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:09:56 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-08-30 16:10:07 error:  This User id: (3) email: (aliahmedfathi37@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:10:36 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-30 16:10:44 error:  This User id: (4) email: (montaser.hassan.fedis@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:19:02 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-30 16:19:08 error:  This User id: (1) email: (montaser.hassan.fedis@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:19:48 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-08-30 16:19:55 error:  This User id: (2) email: (aliahmedfathi37@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:21:09 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-08-30 16:21:15 error:  This User id: (1) email: (aliahmedfathi37@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:39:26 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Your account has blocked by Admin.
+2023-08-30 16:40:56 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Your account has blocked by Admin.
+2023-08-30 16:50:48 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-08-30 16:50:52 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-30 16:50:58 error:  This User id: (1) email: (aliahmedfathi37@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:51:42 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-30 16:52:19 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-08-30 16:52:23 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:52:28 error:  This User id: (1) email: (aliahmedfathi37@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 16:54:32 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:57:26 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:57:28 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:57:29 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:58:07 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:58:08 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:59:04 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:59:05 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: user.save is not a function.
+2023-08-30 16:59:35 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 17:00:46 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 17:00:49 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 17:00:50 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(aliahmedfathi37@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 17:02:02 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (aliahmedfathi37@gmail.com) LogIn Successfully.
+2023-08-30 17:04:16 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan@gmail.com) Created Successfully.
+2023-08-30 17:04:24 error:  This User id: (2) email: (montaser.hassan@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 17:04:39 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (montaser.hassan@gmail.com) LogIn Successfully.
+2023-08-30 17:53:07 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (montaser.hassan@gmail.com) LogIn Successfully.
+2023-08-30 17:53:24 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.mohamed@gmail.com) Created Successfully.
+2023-08-30 17:53:34 error:  This User id: (3) email: (montaser.mohamed@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 20:39:10 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.mohamed@gmail.com) Created Successfully.
+2023-08-30 20:39:19 error:  This User id: (1) email: (montaser.mohamed@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-30 20:43:29 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email OR Password.
+2023-08-30 20:43:57 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:46:02 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:46:23 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:46:32 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:47:13 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:48:17 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:48:27 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:58:00 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:58:22 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: connect ECONNREFUSED 127.0.0.1:8080.
+2023-08-30 20:59:22 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:10:27 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-08-30 21:10:53 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-08-30 21:10:54 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-08-30 21:10:54 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-08-30 21:10:55 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of undefined (reading 'isSuccess').
+2023-08-30 21:12:53 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:13:52 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:13:55 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:13:55 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:13:56 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:14:17 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:14:17 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:14:18 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:14:22 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:18:03 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:18:34 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:19:07 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:09 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:39 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:40 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:47 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:48 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:48 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:55 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:20:56 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:23:01 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:23:02 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:23:21 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:23:21 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:24:12 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:24:12 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Out of range value for column 'expire_date' at row 1.
+2023-08-30 21:33:16 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-30 21:35:48 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ali.ahmed@gmail.com) Created Successfully.
+2023-08-30 21:35:56 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (ali.ahmed@gmail.com) LogIn Successfully.
+2023-08-30 21:51:00 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (ali.ahmed@gmail.com) LogIn Successfully.
+2023-08-30 21:51:46 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (ali.ahmed@gmail.com) LogIn Successfully.
+2023-08-30 22:02:51 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-30 22:02:52 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-30 22:02:52 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223703 minutes.
+2023-08-30 22:02:53 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223703 minutes.
+2023-08-30 22:06:23 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223707 minutes.
+2023-08-30 22:06:27 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223707 minutes.
+2023-08-30 22:06:30 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223707 minutes.
+2023-08-30 22:07:56 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223708 minutes.
+2023-08-30 22:07:57 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223708 minutes.
+2023-08-30 22:08:57 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223709 minutes.
+2023-08-30 22:09:35 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223657 minutes.
+2023-08-30 22:09:35 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223657 minutes.
+2023-08-30 22:09:36 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223657 minutes.
+2023-08-30 22:09:50 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223656 minutes.
+2023-08-30 22:09:51 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223656 minutes.
+2023-08-30 22:09:51 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223656 minutes.
+2023-08-30 22:10:05 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223710 minutes.
+2023-08-30 22:10:05 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223710 minutes.
+2023-08-30 22:10:06 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223710 minutes.
+2023-08-30 22:10:06 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after -28223710 minutes.
+2023-08-30 22:10:18 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 53 minutes.
+2023-08-30 22:59:17 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (ali.ahmed@gmail.com) Created Successfully.
+2023-08-30 22:59:23 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-30 22:59:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-30 22:59:31 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ali.ahmed@gmail.com) Error: user.save is not a function.
+2023-08-30 22:59:36 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ali.ahmed@gmail.com) Error: user.save is not a function.
+2023-08-30 23:00:09 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ali.ahmed@gmail.com) Error: user.save is not a function.
+2023-08-30 23:00:38 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser@gmail.com) Created Successfully.
+2023-08-30 23:00:46 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (montaser@gmail.com) LogIn Successfully.
+2023-08-30 23:14:51 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (montaser@gmail.com) LogIn Successfully.
+2023-08-31 13:27:48 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-31 13:36:37 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: No metadata for "TokenResetPasswordSQL" was found..
+2023-08-31 13:36:37 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: No metadata for "TokenResetPasswordSQL" was found.
+2023-08-31 13:37:28 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: No metadata for "TokenResetPasswordSQL" was found..
+2023-08-31 13:37:28 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: No metadata for "TokenResetPasswordSQL" was found.
+2023-08-31 13:39:26 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:39:26 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:39:34 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:39:34 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:40:38 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:40:38 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:40:53 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:40:53 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:40:58 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:40:58 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:41:10 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:41:10 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:41:11 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:41:11 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:41:30 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:41:30 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:41:40 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:41:40 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:41:57 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:41:57 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:42:10 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): Error Occurred While This User Try to generate reset password link Error: Cannot read properties of undefined (reading 'joinColumns').
+2023-08-31 13:42:10 error: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): error: Error: Cannot read properties of undefined (reading 'joinColumns')
+2023-08-31 13:48:21 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:03:23 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:03:36 error:  This User id: (3) email: (montaser.hassan.fedis@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-08-31 14:04:12 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:04:17 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:21:09 info: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Reset Password Successfully.
+2023-08-31 14:21:11 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:22:24 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:23:00 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:23:02 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:26:51 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:30:25 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:32:11 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:34:28 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:35:11 info: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Reset Password Successfully.
+2023-08-31 14:35:14 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:36:17 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:36:20 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:37:47 info: @Method:(post) @Endpoint:(/requestResetPassword) @FunctionName:(requestResetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Want To Reset Password.
+2023-08-31 14:37:50 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:41:24 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:44:08 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:45:11 error: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) Invalid or expired password reset token.
+2023-08-31 14:46:01 info: @Method:(post) @Endpoint:(/passwordReset) @FunctionName:(resetPassword): This User id: (3) email: (montaser.hassan.fedis@gmail.com) Reset Password Successfully.
+2023-08-31 14:46:03 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 14:47:44 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (3) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-08-31 14:49:32 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 14:49:34 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 14:49:34 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:20:13 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 15:20:14 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 15:20:15 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:20:22 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:20:24 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:20:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:20:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:22:24 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 58 minutes.
+2023-08-31 15:22:53 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 58 minutes.
+2023-08-31 15:37:28 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 43 minutes.
+2023-08-31 15:37:46 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ali.ahmed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:38:45 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(ali.ahmed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:39:21 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.mohamed@gmail.com) Created Successfully.
+2023-08-31 15:39:32 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:39:33 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:39:34 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:41:49 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:42:04 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:43:15 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:44:19 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:44:54 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:45:17 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:45:40 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:47:40 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:47:57 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:49:42 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:49:42 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:50:21 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (4) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-31 15:55:04 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Error Occurred While This User Try to LogIn email:(montaser.mohamed@gmail.com) Error: Cannot read properties of null (reading 'getTime').
+2023-08-31 15:56:25 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (4) email: (montaser.mohamed@gmail.com) LogIn Successfully.
+2023-08-31 15:59:41 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 15:59:42 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 15:59:42 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 15:59:56 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 16:00:59 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 16:03:40 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (3) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-08-31 16:04:25 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (3) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-08-31 16:20:31 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser@gmail.com) Created Successfully.
+2023-08-31 16:20:34 info:  This User email: (montaser@gmail.com) was been sent Successfully.
+2023-08-31 16:21:00 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-31 16:21:14 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-31 16:21:16 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 16:21:25 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-08-31 16:21:38 info: @Method:(get) @Endpoint:(/confirmEmail/:token) @FunctionName:(confirmEmail): This User id: (2) Confirmed Email Successfully.
+2023-08-31 16:23:03 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (2) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-08-31 17:02:09 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-31 17:02:12 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 17:03:04 info: @Method:(get) @Endpoint:(/confirmEmail/:token) @FunctionName:(confirmEmail): This User id: (1) Confirmed Email Successfully.
+2023-08-31 17:03:31 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-08-31 17:04:02 info: @Method:(patch) @Endpoint:(/logout) @FunctionName:(<anonymous>):@UserId(1): -email: (montaser.hassan.fedis@gmail.com) Logout Successfully.
+2023-08-31 17:50:50 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 17:50:51 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 17:50:52 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Too many failed login attempts. Please try again after 60 minutes.
+2023-08-31 18:45:08 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser.hassan.fedis@gmail.com) Created Successfully.
+2023-08-31 18:45:11 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 18:49:49 info: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (1) Resend Confirmed Email Successfully.
+2023-08-31 18:49:52 info:  This User email: (montaser.hassan.fedis@gmail.com) was been sent Successfully.
+2023-08-31 18:50:00 info: @Method:(get) @Endpoint:(/confirmEmail/:token) @FunctionName:(confirmEmail): This User id: (1) Confirmed Email Successfully.
+2023-08-31 18:50:07 error: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (1) You already confirmed Please proceed to login Page.
+2023-08-31 18:50:15 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
+2023-08-31 18:50:21 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
