@@ -6,20 +6,18 @@ import { v4 as uuidv4 } from "uuid";
 import { Request } from "express";
 import axios from "axios";
 import querystring from "querystring";
-
-import { UserModel as User, UserInterface } from "../Models/user.model";
-import { UserSessionModel as UserSession } from "../Models/userSession.model";
-import Token from "../Models/tokenResetPassword.model";
-
 import { sendEmail } from "../Utils/sendEmail.util";
 import { calculateExpirationDate } from "../Config/calculateExpirationDate";
 import readTemplate from "../Utils/readTemplate.util";
 
 // ------------------------------------- sql ---------------------------------------
-import { AppDataSource } from "../Config/sequelize-typeOrm";
+import { AppDataSource } from "../Config/typeOrm";
 import { UserSQL } from '../Models/userSQL.model';
 import { UserSessionSQL } from "../Models/userSessionSQL.model";
 import { TokenResetPasswordSQL } from "../Models/tokenResetPasswordSQL.model";
+import UserInterfaceSQL from "../Interfaces/newUser.interface";
+import { getConnection } from 'typeorm';
+
 
 
 
@@ -87,36 +85,48 @@ export async function createUserSession(token_id: string, user: UserSQL, expires
 
 
 export async function registerService(firstName: string, lastName: string, email: string, role: string, password: string, permission: string[]) {
-  let existingUser = await userRepo.findOne({ where: { email: email } });
+  console.log("Searching for user with email:", email);
+  const existingUser = await AppDataSource.createQueryBuilder().select("user_sql").from(UserSQL, "user_sql").where("user_sql.email = :email", { email }).getOne();
+  console.log("Existing User:", existingUser);
   if (existingUser) {
     return {
       isSuccess: false,
-      message: "Sorry, This Email Already Exist",
+      message: "Sorry, This Email Already Exists",
       status: 409,
     };
+  }
+  const saltRounds = parseInt(process.env.SALT_ROUND);
+  const hashPassword = await bcrypt.hash(password, saltRounds);
+  const newUser: UserInterfaceSQL = {
+    firstName: firstName,
+    lastName: lastName,
+    email: email,
+    role: role,
+    password: hashPassword,
+    permission: permission,
   };
-  const hashPassword = await bcrypt.hash(password, parseInt(process.env.SALT_ROUND));
-  const newUser = new UserSQL();
-  newUser.firstName = firstName;
-  newUser.lastName = lastName;
-  newUser.role = role;
-  newUser.email = email;
-  newUser.password = hashPassword;
-  newUser.permission = permission;
-  const savedUser = await userRepo.save(newUser);
-  if (!savedUser) {
-    return {
-      isSuccess: false,
-      message: "Sorry, Please try to signup again",
-      status: 405,
-      user: savedUser,
-    };
-  } else {
+  try {
+    // const savedUser = await userSQLRepository.save(newUser);
+    await AppDataSource.createQueryBuilder().insert().into('user_sql').values({
+      firstName: firstName,
+      lastName: lastName,
+      email: email,
+      role,
+      password: hashPassword,
+      permission: permission.join(", "),
+    }).execute();
     return {
       isSuccess: true,
       message: "User Sign Up Successfully.",
       status: 201,
-      user: savedUser,
+      user: newUser,
+    };
+  } catch (error) {
+    return {
+      isSuccess: false,
+      message: "Sorry, Please try to sign up again",
+      status: 405,
+      error: error.message,
     };
   }
 }; // done

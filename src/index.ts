@@ -7,7 +7,6 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 dotenv.config();
 import passport from './Config/passport';
-import { connect as connectToDB } from './DB/connect.db';
 import { connectSQL as connectToSQL } from './DB/connect.db';
 
 // Routers
@@ -22,8 +21,6 @@ import defaultErrorHandler from './Utils/defaultErrorHandler';
 
 const app = express();
 
-// Connection to Database
-// connectToDB(); // mongoDB
 connectToSQL(); // typeORM
 
 
@@ -40,7 +37,7 @@ app.use(bodyParser.json());
 
 app.use(passport.initialize());
 
-// For Unexcepted Error
+// For unexpected Error
 // Handel UncaughtException Exception 
 process.on("uncaughtException", (exception) => {
     console.log(exception)

@@ -3,7 +3,7 @@ import { UserSessionModel as UserSession } from '../Models/userSession.model';
 import { NextFunction, Request, Response } from "express";
 
 // -------------- sql --------------
-import { AppDataSource } from "../Config/sequelize-typeOrm";
+import { AppDataSource } from "../Config/typeOrm";
 import { UserSessionSQL } from '../Models/userSessionSQL.model';
 
 

@@ -10,7 +10,7 @@ import { createUserSession } from '../Services/auth.service';
 
 // ------------------------------------- sql -------------------------------------
 
-import { AppDataSource } from "./sequelize-typeOrm";
+import { AppDataSource } from "./typeOrm";
 import { UserSQL } from "../Models/userSQL.model";
 
 

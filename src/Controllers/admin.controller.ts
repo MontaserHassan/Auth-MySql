@@ -7,24 +7,17 @@ export async function findAllUsers(req: Request, res: Response) {
     try {
         const result = await findAllUsersService(userId);
         if (result.isSuccess) {
-
             Logger.info(`fetch all users Successfully.`, { req });
-
             res.status(result.status).json({ message: result.message, users: result.users });
-
         } else {
             Logger.error(`${result.message}`, { req });
-
             res.status(result.status).json({ message: result.message });
         }
     } catch (error) {
-
         Logger.error(`${error.message}`, { req });
-
         res.status(500).json({ message: "catch error : " + error.message });
     }
-
-}
+};
 
 export async function findUser(req: Request, res: Response) {
     const userId = req.user.userId;

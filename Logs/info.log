@@ -687,3 +687,27 @@ Error(Request failed with status code 400)
 2023-08-31 18:50:07 error: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (1) You already confirmed Please proceed to login Page.
 2023-08-31 18:50:15 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): In-valid Email Or Password.
 2023-08-31 18:50:21 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-09-03 15:15:01 info: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): UserId: (1) email: (montaser.hassan.fedis@gmail.com) LogIn Successfully.
+2023-09-03 15:19:07 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-09-03 15:19:10 info:  This User email: (aliahmedfathi37@gmail.com) was been sent Successfully.
+2023-09-03 15:19:43 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-09-03 15:20:39 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-09-03 15:22:08 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-09-03 15:22:12 info: @Method:(get) @Endpoint:(/resendConfirmEmail/:userId) @FunctionName:(resendConfirmEmail): This User id: (2) Resend Confirmed Email Successfully.
+2023-09-03 15:22:15 info:  This User email: (aliahmedfathi37@gmail.com) was been sent Successfully.
+2023-09-03 15:22:49 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-09-03 16:12:59 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (aliahmedfathi37@gmail.com) Created Successfully.
+2023-09-03 16:13:02 info:  This User email: (aliahmedfathi37@gmail.com) was been sent Successfully.
+2023-09-03 16:29:13 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser@gmail.com) Created Successfully.
+2023-09-03 16:29:16 info:  This User email: (montaser@gmail.com) was been sent Successfully.
+2023-09-03 18:33:06 error: @Method:(post) @Endpoint:(/login) @FunctionName:(Login): Please confirm your Email first.
+2023-09-03 20:20:52 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (monty@gmail.com) Created Successfully.
+2023-09-03 20:20:55 error:  This User id: (1) email: (monty@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-09-03 20:31:32 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montii@gmail.com) Created Successfully.
+2023-09-03 20:31:35 error:  This User id: (undefined) email: (montii@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-09-03 21:06:15 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montii@gmail.com) Created Successfully.
+2023-09-03 21:06:17 error:  This User id: (5) email: (montii@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-09-03 21:06:35 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montiii@gmail.com) Created Successfully.
+2023-09-03 21:06:37 error:  This User id: (7) email: (montiii@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-09-03 22:26:15 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montiii@gmail.com) Created Successfully.
+2023-09-03 22:26:17 error:  This User id: (undefined) email: (montiii@gmail.com) an error occurred While a Sign up confirmation email was being sent.

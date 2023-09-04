@@ -1,8 +1,13 @@
+import { AppDataSource } from '../Config/typeOrm';
 import { UserModel as User } from '../Models/user.model';
+import { UserSQL } from '../Models/userSQL.model';
+import { Not } from 'typeorm';
 
 
-export async function findAllUsersService(userId: string) {
-    const users = await User.find({ _id: { $ne: userId } }).select('-password');
+const userRepo = AppDataSource.getRepository(UserSQL);
+
+export async function findAllUsersService(userId: number) {
+    const users = await userRepo.find({ where: { _id: Not(userId) } });
     if (!users) {
         return {
             isSuccess: false,
