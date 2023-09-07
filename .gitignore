@@ -1,3 +1,4 @@
 /Logs
+/.vscode
 node_modules
 .env

@@ -7,7 +7,8 @@
     "start": "nodemon",
     "mongo": "sudo systemctl start mongod",
     "keycloak": "sudo docker-compose up",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "killer": "fuser -k 3000/tcp"
   },
   "keywords": [],
   "author": "",

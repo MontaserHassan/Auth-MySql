@@ -711,3 +711,5 @@ Error(Request failed with status code 400)
 2023-09-03 21:06:37 error:  This User id: (7) email: (montiii@gmail.com) an error occurred While a Sign up confirmation email was being sent.
 2023-09-03 22:26:15 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montiii@gmail.com) Created Successfully.
 2023-09-03 22:26:17 error:  This User id: (undefined) email: (montiii@gmail.com) an error occurred While a Sign up confirmation email was being sent.
+2023-09-04 14:03:47 info: @Method:(post) @Endpoint:(/register) @FunctionName:(Register): email: (montaser@gmail.com) Created Successfully.
+2023-09-04 14:03:57 error:  This User id: (1) email: (montaser@gmail.com) an error occurred While a Sign up confirmation email was being sent.
